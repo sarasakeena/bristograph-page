@@ -298,7 +298,7 @@ img {
 .hero {
     height: 100vh;
     min-height: 600px;
-    background-image: url('https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=1920');
+    background-image: url('../images/bistrograph-hero.JPG');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
